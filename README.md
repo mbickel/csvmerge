@@ -3,7 +3,6 @@ Parse CSV files and stack them by their matching columns.
 
 ## Requirements
 pandas 
-argparse
 
 ## Example
 ```
