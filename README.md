@@ -7,6 +7,6 @@ argparse
 
 ## Example
 ```
-python csvmerge --delimiter "," --encoding "utf-8" --output "output_file.csv" file1.csv file2.csv file3.csv
+python csvmerge.py --delimiter "," --encoding "utf-8" --output "output_file.csv" file1.csv file2.csv file3.csv
 ```
 
